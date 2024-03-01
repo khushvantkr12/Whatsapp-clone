@@ -17,11 +17,12 @@ const Image=styled('img')({
 const Title=styled(Typography)`
      font-size:28px;
      margin:25px 0 10px 0;
-     font-weight:320;
+     font-weight:420;
      font-family:inherit;
      color:#41525d;
      white-space: nowrap;
      overflow: hidden;
+     width:460px;
      `
      const SubTitle=styled(Typography)`
      font-size:15px;
